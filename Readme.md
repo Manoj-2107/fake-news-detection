@@ -3,7 +3,7 @@
 This project is a machine learning-based web app that detects whether a news article is **real** or **fake** using **Natural Language Processing (NLP)** and a **Naive Bayes classifier**. It features an interactive UI built with **Streamlit** and runs completely in the browser.
 
 ## 🚀 Live Demo
-🔗 [Click here to try the app](https://your-username.streamlit.app)  
+🔗 [Click here to try the app](https://fake-news-detection-n6chhhyxzcqlhcymozdzz2.streamlit.app/  
 _(Replace this link with your actual Streamlit deployment URL)_
 
 ---

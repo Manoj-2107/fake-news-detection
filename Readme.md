@@ -78,9 +78,9 @@ Kaggle Fake and Real News Dataset
 👤 Author
 Your Name: Manoj Kumar
 
-Email: your-email@example.com (optional)
+Email: manojkumar112128@gmail.com
 
-GitHub: your-username
+GitHub: Manoj-2107
 
 
 ✅ Future Enhancements
